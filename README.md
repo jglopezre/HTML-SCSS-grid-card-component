@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution](https://github.com/jglopezre/HTML-SCSS-grid-card-component.git)
+- [Live Site](https://jglopezre.github.io/HTML-SCSS-grid-card-component/)
 
 ## My process
 
